@@ -1,5 +1,5 @@
 # Zero to Mastery Deep Learning with TensorFlow
-
+Online Book is [here](https://dev.mrdbourke.com/tensorflow-deep-learning/).
 All of the course materials for the [Zero to Mastery Deep Learning with TensorFlow course](https://dbourke.link/ZTMTFcourse).
 
 This course will teach you foundations of deep learning and TensorFlow as well as prepare you to pass the TensorFlow Developer Certification exam (optional).
